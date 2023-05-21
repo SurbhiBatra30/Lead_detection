@@ -1,4 +1,4 @@
-# Lead_Score_Case_Study
+# Lead_detection_case_study
 
 ## Problem Statement:-
 
